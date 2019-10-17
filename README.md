@@ -1,1 +1,3 @@
-# practica3-chipres
+# chatnodejs
+
+Proyecto básico de prueba
